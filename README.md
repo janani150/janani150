@@ -5,7 +5,7 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 ## 🚀 Skills
 - **Languages:** Python, JavaScript, SQL
 - **Frameworks:**  Flask
-- **Front-end:** HTML, CSS, Figma, Canva
+- **Front-end:** HTML, CSS, bootstrap, Figma, Canva
 - **Databases:** MySQL
 - **Tools:** Git, GitHub, Docker, Google App Engine(GAE), VS Code
 
