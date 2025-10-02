@@ -14,11 +14,23 @@ I'm a passionate Full Stack Developer with expertise in building scalable web ap
 Jeppiaar Institute of Technology (2023 - 2027)
 
 ## 🌟 Projects
-### Front-End Project
-- **Description:** A collection of web apps (E-learning, Blog, E-commerce, Restaurant, Fitness, Job Search, Travel).
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Repository:** [GitHub Repo](https://github.com/janani150/front_end_project)
-### AI Study Buddy
+
+### 1. E-Commerce Platform 🛒
+- **Description:** A fully functional e-commerce website that allows users to browse products, add them to a cart, and complete purchases.
+- **Technologies Used:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap 
+- **Repository:** [E-Commerce GitHub Repo](https://github.com/janani150/e-commerce)
+
+### 2. E-Learning Platform 🎓
+- **Description:** An interactive e-learning platform that provides courses, quizzes, and user progress tracking.
+- **Technologies Used:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap 
+- **Repository:** [E-Learning GitHub Repo](https://github.com/janani150/e-learning)
+
+### 3. Food Restaurant Website 🍽️
+- **Description:** A simple website for a food restaurant showcasing menus and images of various dishes.
+- **Technologies Used:** HTML, CSS, Tailwind CSS, Bootstrap 
+- **Repository:** [Food Restaurant GitHub Repo](https://github.com/janani150/food-restaurant)
+
+### 4. AI Study Buddy
 - **Description:** An AI-powered tool that summarizes study materials, answers questions, and generates quizzes.
 - **Technologies Used:** Python, Flask, Hugging Face Transformers
 - **Repository:** [GitHub Repo](https://github.com/janani150/AI-study-buddy)
