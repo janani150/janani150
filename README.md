@@ -23,7 +23,7 @@ Jeppiaar Institute of Technology (2023 - 2027)
 ### 2. E-Learning Platform 🎓
 - **Description:** An interactive e-learning platform that provides courses, quizzes, and user progress tracking.
 - **Technologies Used:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap 
-- **Repository:** [E-Learning GitHub Repo]([https://github.com/janani150/e-learning])
+- **Repository:** [E-Learning GitHub Repo](https://github.com/janani150/e-learning)
 
 ### 3. Food Restaurant Website 🍽️
 - **Description:** A simple website for a food restaurant showcasing menus and images of various dishes.
