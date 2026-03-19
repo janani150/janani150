@@ -1,59 +1,100 @@
-# Hi there, I'm Janani! 👋
+# 👋 Hey, I'm Janani
 
-I'm a passionate Full Stack Developer with expertise in building scalable web applications using **Python**, **Flask**, **java**, **HTML**, **CSS**, and **JavaScript**. I enjoy creating responsive designs and optimizing user experiences.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF69B4\&size=32\&center=true\&vCenter=true\&width=600\&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real+World+Projects;Always+Learning+🚀)
 
-## 🚀 Skills
-- **Languages:** Python, JavaScript, SQL
-- **Frameworks:**  Flask
-- **Front-end:** HTML, CSS, bootstrap, Figma, Canva
-- **Databases:** MySQL
-- **Tools:** Git, GitHub, Docker, Google App Engine(GAE), VS Code
+---
 
-## 🎓 Education
-**B.E. in Computer Science and Engineering**  
-Jeppiaar Institute of Technology (2023 - 2027)
+## 🚀 About Me
 
-## 🌟 Projects
+🎓 Computer Science Student (2023–2027)
+💻 Passionate about Full Stack Development & AI
+🔥 Currently building **Smart Classroom Scheduler**
+💡 Love solving real-world problems with code
 
-### 1. E-Commerce Platform 🛒
-- **Description:** A fully functional e-commerce website that allows users to browse products, add them to a cart, and complete purchases.
-- **Technologies Used:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap 
-- **Repository:** [E-Commerce GitHub Repo](https://github.com/janani150/e-commerce)
+---
 
-### 2. E-Learning Platform 🎓
-- **Description:** An interactive e-learning platform that provides courses, quizzes, and user progress tracking.
-- **Technologies Used:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap 
-- **Repository:** [E-Learning GitHub Repo](https://github.com/janani150/E-learning-platform)
+## 🛠 Tech Stack
 
-### 3. Food Restaurant Website 🍽️
-- **Description:** A simple website for a food restaurant showcasing menus and images of various dishes.
-- **Technologies Used:** HTML, CSS, Tailwind CSS, Bootstrap 
-- **Repository:** [Food Restaurant GitHub Repo](https://github.com/janani150/food-restaurant)
+### 💻 Languages
 
-### 4. AI Study Buddy
-- **Description:** An AI-powered tool that summarizes study materials, answers questions, and generates quizzes.
-- **Technologies Used:** Python, Flask, Hugging Face Transformers
-- **Repository:** [GitHub Repo](https://github.com/janani150/AI-study-buddy)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 
+### 🌐 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
+
+### ⚙️ Backend & Tools
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge\&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+
+---
+
+## 🌟 Featured Projects
+
+### 🏫 Smart Classroom & Timetable Scheduler 🚧
+
+A system to automate scheduling and manage classroom resources efficiently
+
+* Backend API ✅
+* Scheduling logic (ongoing)
+* UI development (ongoing)
+
+🛠 Python, Flask, React
+
+---
+
+### 🧠 AI Study Buddy
+
+An AI-powered assistant that:
+
+* Summarizes notes
+* Answers questions
+* Generates quizzes
+
+🛠 Python, Flask, Hugging Face
+🔗 https://github.com/janani150/AI-study-buddy
+
+---
+
+### 📈 Stock ETF Signal Platform
+
+A platform that analyzes stock data and generates signals
+
+🛠 TypeScript, Python
+
+---
 
 ## 💼 Experience
-### Front End Developer Intern
-**Cognifyz Technologies** (April 2025 - May 2025)  
-- Developed responsive web applications using HTML, CSS, and JavaScript.
-- Integrated modern front-end frameworks to enhance user interfaces and application performance.
 
-## 📜 Certifications
-- Figma For UX Design
-- Introduction To Front End Development
-- SQL Query Optimization For Beginners
-- Google Cloud Computing Foundations by NPTEL
-- Fundamentals of Python Programming
-- Python Programming with Projects
-- Learn SQL for Oracle Databases - Using Toad from Scratch
-- Computer Science - HSC
-- JAVA
+**Frontend Developer Intern – Cognifyz Technologies**
+📅 April 2025 – May 2025
 
-## 📫 Connect with me
-- **E-mail**  janani8362@gmail.com
-- **LinkedIn** https://www.linkedin.com/in/janani-nsp/
+* Built responsive web apps
+* Improved UI/UX
 
+---
+
+## 📊 GitHub Stats
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janani150\&layout=compact\&theme=tokyonight)
+
+
+
+---
+
+## 📫 Connect With Me
+
+📧 [janani8362@gmail.com](mailto:janani8362@gmail.com)
+🔗 https://www.linkedin.com/in/janani-nsp/
+
+---
+
+⭐ *“Building today to solve tomorrow’s problems”* 🚀
