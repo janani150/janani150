@@ -102,23 +102,25 @@ A web application that automates timetable generation while preventing schedulin
 
 ---
 
-## 🤖 AI Resume Builder & Career Assistant
+## 🎨 AI Resume Builder & Career Assistant (UI/UX Design)
 
-Designed an AI-powered resume builder with a modern UI/UX.
+Designed a complete UI/UX prototype for an AI-powered Resume Builder & Career Assistant using Figma.
 
-### Features
+### ✨ Features
 
 - Resume Builder
-- Resume Analysis
-- AI Chat Assistant
-- Dashboard
+- Resume Analysis Dashboard
+- AI Chat Assistant Interface
 - User Authentication
-- Responsive UI
+- Profile Management
+- Responsive Mobile UI
+- Modern Design System
 
-**Designed using**
+**Tools Used**
 
-`Figma`
+`Figma` • `Wireframing` • `UI Design` • `UX Design` • `Prototyping`
 
+🔗 **Figma Prototype:** https://www.figma.com/design/4bn0KUddeyveZUeE20xsGF/my-designs-demo?node-id=0-1&p=f&t=ZtGEACrQCHdFQJVv-0
 ---
 
 ## 📚 AI Study Buddy
