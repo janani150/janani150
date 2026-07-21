@@ -120,7 +120,7 @@ Designed a complete UI/UX prototype for an AI-powered Resume Builder & Career As
 
 `Figma` • `Wireframing` • `UI Design` • `UX Design` • `Prototyping`
 
-🔗 **Figma Prototype:** https://www.figma.com/design/4bn0KUddeyveZUeE20xsGF/my-designs-demo?node-id=0-1&p=f&t=ZtGEACrQCHdFQJVv-0
+🔗 **[View Figma Prototype](https://www.figma.com/design/4bn0KUddeyveZUeE20xsGF/my-designs-demo?node-id=0-1&p=f&t=ZtGEACrQCHdFQJVv-0)**
 ---
 
 ## 📚 AI Study Buddy
